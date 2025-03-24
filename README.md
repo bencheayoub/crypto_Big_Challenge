@@ -7,3 +7,4 @@ Here is the solution of all crypto challenges from the BIG Challenge :
 - [costume_encryption_1](https://github.com/bencheayoub/costume_encryption_1)
 - [chinese](https://github.com/bencheayoub/chinese)
 - [broadcasting_ntru](https://github.com/bencheayoub/broadcasting_ntru)
+- [tidal]
