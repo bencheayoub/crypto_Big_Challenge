@@ -8,4 +8,4 @@ Here is the solution of all crypto challenges from the BIG Challenge :
 - [chinese](https://github.com/bencheayoub/chinese)
 - [broadcasting_ntru](https://github.com/bencheayoub/broadcasting_ntru)
 - [tidal](https://github.com/bencheayoub/tidal)
-- [rockstar]
+- [rockstar](https://github.com/bencheayoub/rockstar)
